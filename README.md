@@ -1,5 +1,5 @@
 # 📦 KPIM Mart Order Analysis Dashboard
-> Capstone Project · December 2025
+> Capstone Project 
 
 ## Overview
 An interactive Order Analysis dashboard built in Power BI to monitor order fulfillment status, delivery performance, and workload distribution from high-level KPIs down to individual managers and product groups.
